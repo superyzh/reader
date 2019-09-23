@@ -2,7 +2,7 @@
     <div class="article-header-box">
         <div class="article-header">
             <div class="article-title-box">
-                <span class="article-type type-1 float-left">原创</span>                <h1 class="title-article">各大AI 开放平台一览</h1>
+                <span class="article-type type-1 float-left">转载https://blog.csdn.net/qq_15071263/article/details/82908201#4_AI_58</span>                <h1 class="title-article">各大AI 开放平台一览</h1>
             </div>
             <div class="article-info-box">
                 <div class="article-bar-top" style="height: 26px;">
