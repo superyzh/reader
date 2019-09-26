@@ -11,7 +11,7 @@
 ## t push -u origin maste
 
 #从远程分支拉取代码到本地  
-## git pull reader  master  
+## git pull https://github.com/superyzh/reader  master  
 
 
 # git commit、git push、git pull、 git fetch、git merge 的含义与区别
