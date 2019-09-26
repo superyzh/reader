@@ -8,7 +8,7 @@
 
 #  push an existing repository from the command line
 ## git remote add origin https://github.com/superyzh/reader.git
-## git push -u origin maste
+## git push -u origin master
 
 #从远程分支拉取代码到本地  
 ## git pull https://github.com/superyzh/reader  master  
