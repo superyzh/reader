@@ -1,5 +1,5 @@
 
-# 先更新在提交（先pull，在push）
+# 先更新再提交（先pull，再push）
 
 # create a new repository on the command line
 ## git init
