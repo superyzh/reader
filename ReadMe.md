@@ -1,4 +1,6 @@
 
+# 先更新在提交（先pull，在push）
+
 # create a new repository on the command line
 ## git init
 ## git add README.md
