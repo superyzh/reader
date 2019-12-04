@@ -1,9 +1,3 @@
-<!DOCTYPE NETSCAPE-Bookmark-file-1>
-<!-- This is an automatically generated file.
-     It will be read and overwritten.
-     DO NOT EDIT! -->
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<TITLE>Bookmarks</TITLE>
 <H1>Bookmarks</H1>
 <DL><p>
     <DT><H3 ADD_DATE="1509195410" LAST_MODIFIED="1575440434" PERSONAL_TOOLBAR_FOLDER="true">书签栏</H3>
@@ -47,12 +41,7 @@
                     <DT><A HREF="http://www.webppd.com/forum-28-1.html" ADD_DATE="1568777495" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB40lEQVQ4jaXRv2tTURQH8O/3/ch7L4mBvjhoMEa0Koqg4GIcBAcXKbhZBIcWqeKgUwcH3XSpUgV18T/oIFqKUKi/cBPExdVAG4gQQ5M2pi8vL+/e4yRtmlcEPdu5nPu555wL/GdwILv3ehmgN1QloG3ROuSnFy6Mlm49vXi4vQMwLzu/JaAA+bQ7d2KvM/Fx8nwIANa2mmkQw4jobta1TwU9NdUMo/FKg68AzP19wG3hP3jzEnfn5fiz9zN/zqykwtHHb8uNX72iaVEDAGiITcTZlFloBn14huknAiJi7J9derGy3r2qYuUgGoQbAGAQAlGJwMnnH+7X1rrXtNYo+buWiznH6ikNAiCpvtXbu4MozoCbyx8AvjeDSS2CnOc8uVMuPpooHzFbrRCuB4y4rjowu/RwJepf2XrH2JoEUZwCiY0o+nTz7NGaR1YLvlf1Pa9KstbX0gEIaNGJAEgFAErDTFquRQgEEG52PgAYpAMR5NP26SSANA0AiDSSf+HgSGaxstq53Arj6cLM4jHXMptatKOVBLZp4WfQGwOBFNlKBErZzO16J0x3ov7Yj/Xw0nALAEiQiBOBd1Nn6tcXvox/rrZvADzX7sV5g1RKi7najfbkHHvNtbixL+dVvibN+C/xGyi5t9MCS3F3AAAAAElFTkSuQmCC">Axure中文社区,WebPPD产品原型设计,Axure9下载,Axure教程,Axure培训,Axure注册码,Axure视频,产品经理交互设计社区 -</A>
                 </DL><p>
             </DL><p>
-        </DL><p>
-        <DT><H3 ADD_DATE="1569490923" LAST_MODIFIED="1574952325">公司</H3>
-        <DL><p>
-            <DT><A HREF="http://hub.pactera-fintech.com/?q=home-page" ADD_DATE="1570075644" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAjUlEQVQ4jWNgoBQ8ErD//yah/v/X9fv/k6Of8QGDEVwjkwAvA0+CLwN3vA8Du6EGI8kGIAMWBSkG7ngfBp4EXwZWRWmchuE0ABmwGagzcMf7MHAFOGAYRpQByIArwIGB09+BgSvAgYFZkI+RZAOQAU+CL7laEYBiF7CQqomsMCArFshKB+SkRIrzwsADAD7PNElKV7+lAAAAAElFTkSuQmCC">Pactera-Fintech HUB</A>
-            <DT><A HREF="https://prs.pactera-fintech.com/" ADD_DATE="1569490929" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAjUlEQVQ4jWNgoBQ8ErD//yah/v/X9fv/k6Of8QGDEVwjkwAvA0+CLwN3vA8Du6EGI8kGIAMWBSkG7ngfBp4EXwZWRWmchuE0ABmwGagzcMf7MHAFOGAYRpQByIArwIGB09+BgSvAgYFZkI+RZAOQAU+CL7laEYBiF7CQqomsMCArFshKB+SkRIrzwsADAD7PNElKV7+lAAAAAElFTkSuQmCC">PRS-文思海辉预入职信息登记系统</A>
-        </DL><p>
+        </DL>
         <DT><H3 ADD_DATE="1571021729" LAST_MODIFIED="1573106708">运设</H3>
         <DL><p>
             <DT><A HREF="https://growthhackers.com/posts" ADD_DATE="1572607843" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABBUlEQVQ4jcWSsUoDURBF77xZoxFiJEQLxc7OzlYIgo2W+TAhH+APiLWFIPgFiigWLoEVjaCFEGM26759O2MjeavE1VTecmbOzJ1haOWog2lkpqr+FdD1Zn9/53omcH8EqNPqrtXjg72LcSgoN5CpiiLOuAxQKBFBFaDDboMNBmlQBiw27O7W6zCh49MlJ2bkmMhnJ+ywufHGgTQXUKkK6Hv2C6AAgKhXhVLqxCbmM1SQt8RcMcyZTYYjPr+d5x/u54HtVtul7zfhJSEkoOhb1Q/yfdRayqVWqysBAJECEIWo5oVVPNB7uhvE/Si6enmedY4eHucAnN0v52JOwtVxGf3z803QB9tDYqLdoV3iAAAAAElFTkSuQmCC">GrowthHackers - Premier Growth Community - GrowthHackers</A>
@@ -141,8 +130,4 @@
         </DL><p>
    
         
-    </DL><p>
-    <DT><A HREF="https://yunqi.youku.com/2019/hangzhou/review?spm=a2c4e.11165380.1395223.1" ADD_DATE="1573298286" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABX0lEQVQ4ja3TvU5VURCG4WfW3ptwEjDGWOglGI0WdFZEr+FcgdGAFnSGkk5iR4XReAVcg4TKzkKjsbOVwlAI5BD2z1gAxwYswKnny5p35l1ctZK4SnYazpfm/TQ4MrhmpLIfb7WQzzR6836bmFXcVuK1fahzyT2VDYcWzJlx3Ujrs9Yj7IHevMa2Wx7oTBw6zhc+6a1ELvtq1l3HGHwXPkjvYtOXM7wgc9l94an0WHHHDI58i3wu1Tqtdb+sxZb+n9xjlZvWNFZ16iIMOhMH1mNLn4vqC8OL6tjSO7CuMxGGWgpp0CgQO7pcsqHxUH+yRJVG62O8sQIaRRoQ578WdoUfhlOcWiXsntdaC4miNUzH3PTqQoQdndZgVhGySEVtZM5qjlWxoztbVlKSkmPVFG+sMmdVbSSV/3DGM5FYMJhR/xUp3p+IlE/c0NjWnIpUHHMq0pTvkipf+TNdNjutP6KopyEB/Kx7AAAAAElFTkSuQmCC">2019杭州·云栖大会 回顾</A>
-    <DT><A HREF="chrome://newtab/" ADD_DATE="1573359178">新标签页</A>
-    <DT><A HREF="https://suulnnka.github.io/BullshitGenerator/index.html" ADD_DATE="1573632849">文章生成器</A>
-</DL><p>
+    </DL>g
